@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @98PJose
+
 - 👀 I’m interested in Economy, Bussines Analytics, Big Data and Politics
-- 🌱 I’m currently learning Big Data, Bussnes Analytics and Finances
-- 💞️ I’m looking to collaborate on Big Data, Bussnes Analytics and Finances
+
+- 🌱 I’m currently learning Big Data, Bussines Analytics and Finances
+
+- 💞️ I’m looking to collaborate on Big Data, Bussines Analytics and Finances. Contact me !!!
+
 - 📫 How to reach me pedrojosepiquerasmartinez@gmail.com
 
 <!---
